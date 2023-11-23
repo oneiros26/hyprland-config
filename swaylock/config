@@ -1,0 +1,19 @@
+indicator
+ignore-empty-password
+indicator-thickness=15
+indicator-radius=150
+image=~/wallpapers/serenity.jpg
+effect-blur=7x5
+effect-vignette=0.5:0.5
+ring-color=335c67
+hey-hl-color=880033
+line-color=00000000
+inside-color=00000088
+inside-clear-color=00000088
+text-color=fff3b0
+text-clear-color=fff3b0
+ring-clear-color=890051
+separator-color=890051
+grace=2
+fade-in=0.5
+font=Caskaydia Cove Nerd Font Mono
